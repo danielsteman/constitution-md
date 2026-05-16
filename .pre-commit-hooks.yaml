@@ -1,0 +1,6 @@
+- id: sync-constitution
+  name: Sync CONSTITUTION.md to agent configs
+  language: rust
+  entry: sync-constitution
+  files: ^CONSTITUTION\.md$
+  pass_filenames: false

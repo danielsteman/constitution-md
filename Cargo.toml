@@ -1,0 +1,13 @@
+[package]
+name = "sync-constitution"
+version = "1.0.0"
+edition = "2021"
+description = "Pre-commit hook to sync CONSTITUTION.md to agent-specific config files"
+license = "MIT"
+
+[[bin]]
+name = "sync-constitution"
+path = "src/main.rs"
+
+[dev-dependencies]
+tempfile = "3"
