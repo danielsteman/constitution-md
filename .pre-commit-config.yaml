@@ -1,0 +1,6 @@
+repos:
+  - repo: https://github.com/danielsteman/constitution-md
+    rev: v1.0.0
+    hooks:
+      - id: sync-constitution
+        args: [claude, cursor]
