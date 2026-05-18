@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/danielsteman/constitution-md/compare/v1.0.0...v1.0.1) (2026-05-16)
+
+
+### Bug Fixes
+
+* install self as pre commit hook ([5c45812](https://github.com/danielsteman/constitution-md/commit/5c458127dbc2ec661d22135604905d65d8d424d1))
+
 # 1.0.0 (2026-05-16)
 
 
