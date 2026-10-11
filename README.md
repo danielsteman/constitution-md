@@ -26,7 +26,7 @@ Instead of maintaining separate rule files for each AI agent (Claude, Cursor, Co
 ```yaml
 repos:
   - repo: https://github.com/danielsteman/constitution-md
-    rev: v1.0.0
+    rev: v1.1.0
     hooks:
       - id: sync-constitution
         args: [claude, cursor, copilot]

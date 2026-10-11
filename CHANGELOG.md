@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/danielsteman/constitution-md/compare/v1.0.1...v1.1.0) (2026-10-11)
+
+
+### Features
+
+* add typed Format enum with JSON output support ([5bc068c](https://github.com/danielsteman/constitution-md/commit/5bc068c5d05e051af8185de808e1526d3927c54f))
+
 ## [1.0.1](https://github.com/danielsteman/constitution-md/compare/v1.0.0...v1.0.1) (2026-05-16)
 
 
